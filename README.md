@@ -1,7 +1,7 @@
 millennial-to-hobbit (WIP)
 =============
 
-![](logo.png)
+![](https://media.giphy.com/media/aJMDwgd63oxPO/giphy.gif)
 
 Chrome extension that replaces occurrences of 'millennial' with 'hobbit'
 
