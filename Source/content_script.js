@@ -36,10 +36,25 @@ function handleText(textNode)
 {
 	var v = textNode.nodeValue;
 
-	v = v.replace(/\bThe Cloud\b/g, "My Butt");
-	v = v.replace(/\bThe cloud\b/g, "My butt");
-	v = v.replace(/\bthe Cloud\b/g, "my Butt");
-	v = v.replace(/\bthe cloud\b/g, "my butt");
+	v = v.replace(/\bMillennials\b/g, "Hobbits");
+	v = v.replace(/\bmillennials\b/g, "hobbits");
+	v = v.replace(/\bMILLENNIALS\b/g, "HOBBITS");
+	v = v.replace(/\bMillennial\b/g, "Hobbit");
+	v = v.replace(/\bmillennial\b/g, "hobbit");
+	v = v.replace(/\bMILLENNIAL\b/g, "HOBBIT");
+	v = v.replace(/\bMillenials\b/g, "Hobbits");
+	v = v.replace(/\bmillenials\b/g, "hobbits");	
+	v = v.replace(/\bMILLENIALS\b/g, "HOBBITS");	
+	v = v.replace(/\bMillenial\b/g, "Hobbit");
+	v = v.replace(/\bmillenial\b/g, "hobbit");
+	v = v.replace(/\bMILLENIAL\b/g, "HOBBIT");
+	v = v.replace(/\bMilenials\b/g, "Hobbits");
+	v = v.replace(/\bmilenials\b/g, "hobbits");	
+	v = v.replace(/\bMILENIALS\b/g, "HOBBITS");	
+	v = v.replace(/\bMilenial\b/g, "Hobbit");
+	v = v.replace(/\bmilenial\b/g, "hobbit");
+	v = v.replace(/\bMILENIAL\b/g, "HOBBIT");
+	
 	
 	textNode.nodeValue = v;
 }
