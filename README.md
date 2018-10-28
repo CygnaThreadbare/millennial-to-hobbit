@@ -17,7 +17,12 @@ http://www.flickr.com/groups/cloud-to-butt/
 Installation
 ------------
 
-In Chrome, choose Window > Extensions.  Drag CloudToButt.crx into the page that appears.
+Download and extract the zip file.
+
+In Chrome, choose More Tools > Extensions.
+Click in the "Developer mode" button to allow loading unpacked extensions.
+![](https://i.imgur.com/zVEu93I.png)
+
 
 Safari Version
 --------------
