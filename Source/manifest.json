@@ -3,6 +3,13 @@
 	"name": "Millennial to Hobbit",
 	"version": "1.0",
 	"description": "Replaces the text 'millennial' with 'hobbit'.",
+	"icons": {
+		"128": "icons/128.png",
+		"16": "icons/16.png",
+		"32": "icons/32.png",
+		"48": "icons/48.png"
+		},
+
 	"content_scripts": 
 	[
 		{
