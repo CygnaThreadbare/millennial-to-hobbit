@@ -9,6 +9,9 @@ Forked from https://github.com/panicsteve/cloud-to-butt
 
 Also works in Vivaldi and should work in most Chromium-based browsers.
 
+The idea was taken from [https://twitter.com/CryptTrash/status/1055694121447370752](this Twitter thread).
+![](https://i.imgur.com/oTA6TPo.png)
+
 
 Installation
 ------------
